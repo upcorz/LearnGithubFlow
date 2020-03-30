@@ -1,2 +1,2 @@
 
-fix some bugs in feature/C
+complete feature C
